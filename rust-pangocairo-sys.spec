@@ -5,8 +5,8 @@
 %global crate pangocairo-sys
 
 Name:           rust-%{crate}
-Version:        0.10.1
-Release:        2%{?dist}
+Version:        0.22.0
+Release:        1%{?dist}
 Summary:        FFI bindings to PangoCairo
 
 # Upstream license specification: MIT
